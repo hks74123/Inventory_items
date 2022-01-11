@@ -3,8 +3,11 @@ It is simple web to see,update,edit,delete inventory and you can also export dat
 
 First to get this project run--------
 
-first of all you should have python installed in your system to run this project so to install python----
+First of all download Zip file from github and then extract all files in a single folder
+
+after that you should have python installed in your system to run this project so to install python----
 Just Visit https://www.python.org/
+
 after that select latest version according to your Operating system(Windows/Linux/Mac)
 after downloading install it in your system after installing to check installation in your command prompt just write---
 
